@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import cv2 # this is opencv module
 import glob
 import os
-
+#hello to check
 # specify path to the license plate images folder as shown below
 path_for_license_plates = os.getcwd() + "image6.jpg"
 list_license_plates = []
