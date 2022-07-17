@@ -2,7 +2,7 @@ import cv2
 
 width = 900
 height = 400
-
+##hello to check
 # load the image, resize it, and convert it to grayscale
 image = cv2.imread("image1.jpg")
 image = cv2.resize(image, (width, height))
